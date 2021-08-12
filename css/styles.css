@@ -1,7 +1,13 @@
 #aragorn,
 #frodo,
-#gandalf {
+#gandalf,
+#result,
+#nameAlert {
 display: none;
+}
+
+#nameAlert {
+  color: red;
 }
 
 img {
