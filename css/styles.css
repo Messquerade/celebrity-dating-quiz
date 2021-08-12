@@ -1,0 +1,18 @@
+#aragorn,
+#frodo,
+#gandalf {
+display: none;
+}
+
+img {
+  max-width: 500px;
+}
+
+.question {
+  margin-top: 20px;
+}
+
+.btn-success {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
